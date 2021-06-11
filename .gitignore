@@ -1,0 +1,10 @@
+# Project exclude paths
+/node_modules/
+/LossGloat.js
+/LossGloat.js.map
+/RiotAPIClient.js
+/RiotAPIClient.js.map
+/tsmbot.js
+/tsmbot.js.map
+/tstesting.js
+/tstesting.js.map

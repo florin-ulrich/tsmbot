@@ -1,4 +1,5 @@
 # Project exclude paths
+/idea/
 /node_modules/
 /LossGloat.js
 /LossGloat.js.map
